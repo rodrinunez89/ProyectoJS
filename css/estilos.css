@@ -194,11 +194,12 @@ textarea:focus {
     display: grid;
     gap: 2rem;
     padding: 32px;
-    background-color: #6d6d6dc6; }
+    background-color: #6d6d6dc6;
+   }
     .main__content__productos{
       display: grid;
     gap: 2rem;
-    }
+   }
     .main__content--3cols {
       grid-template-columns: repeat(3, 1fr); }
     .main__content__article {
@@ -228,7 +229,8 @@ textarea:focus {
           margin-bottom: 10px;
           font-family: Verdana, Geneva, Tahoma, sans-serif; }
     .main__content__card {
-      --bs-card-bg: whitesmoke; }
+      --bs-card-bg: whitesmoke;
+      height: auto; }
     .main__content__contact {
       display: grid;
       grid-template-columns: 1fr; }

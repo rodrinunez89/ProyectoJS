@@ -2,57 +2,57 @@
    "productos": [
         {
             "nombre": "Asientos deportivos - Recaro -",
-            "texto": "Butaca, Brindara mayor comodidad a su comfort de manejo",
+            "texto": "Brindara mayor comodidad a su comfort de manejo",
             "categoria": "accesorios",
             "precio": "57000",
             "stock": "10",
             "id": "1",
-            "imagen":"./images/repa1.jpg"
+            "imagen":"./images/asiento1.jpg"
         },
         {
             "nombre": "LLantas de aleacion Sky Blue",
             "categoria": "accesorios",
-            "texto": "Butaca, Brindara mayor comodidad a su comfort de manejo",
+            "texto": "LLantas de 17 Mejorando la apariencia de su vehiculo ",
             "precio": "98000",
             "stock": "25",
             "id": "2",
-            "imagen":"./images/repa1.jpg"
+            "imagen":"./images/llantas1.jpg"
         },
         {
             "nombre": "Stereo con Gps Doble Din",
             "categoria": "accesorios",
-            "texto": "Butaca, Brindara mayor comodidad a su comfort de manejo",
+            "texto": "El mejor sonido que podes conocer dando una sensasion envolvente",
             "precio": "18000",
             "stock": "40",
             "id": "3",
-            "imagen":"./images/repa1.jpg"
+            "imagen":"./images/estereo1.jpg"
         },
         {
             "nombre": "Escape deportivo",
             "categoria": "accesorios",
-            "texto": "Butaca, Brindara mayor comodidad a su comfort de manejo",
+            "texto": "Akrapovic , sumandole 10hp a su vehiculo",
             "precio": "28000",
             "stock": "10",
             "id": "4",
-            "imagen":"./images/repa1.jpg"
+            "imagen":"./images/escape1.jpg"
         },
         {
             "nombre": "Polarizado",
             "categoria": "accesorios",
-            "texto": "Butaca, Brindara mayor comodidad a su comfort de manejo",
+            "texto": "Dandole privacidad y atenuacion de la luz exterior",
             "precio": "11000",
             "stock": "20",
             "id": "5",
-            "imagen":"./images/repa1.jpg"
+            "imagen":"./images/polarizado1.jpg"
         },
         {
             "nombre": "Blindado",
             "categoria": "accesorios",
-            "texto": "Butaca, Brindara mayor comodidad a su comfort de manejo",
+            "texto": "Mayor seguridad en su manejo ante hechos delictivos",
             "precio": "81000",
             "stock": "30",
             "id": "6",
-            "imagen":"./images/repa1.jpg"
+            "imagen":"./images/blindado.jpg"
         }
    ]    
 }
